@@ -1,5 +1,7 @@
-## Hi there 👋
-<div> <a href="https://github.com/renato934"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato934&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato934&layout=compact&langs_count=16&theme=dracula"/> 
+## 📊 Git Hub Status
+<div align="center">
+<a href="https://github.com/renato934">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renato934&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renato934&theme=dracula"/>
+  </a>
 </div>
